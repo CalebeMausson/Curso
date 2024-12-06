@@ -1,0 +1,5 @@
+Comecei pela criação de pastas e organização das imagens. Foi um desafio encontrar imagens adequadas, pois eu não tinha muita experiência com CSS e enfrentei dificuldades também ao trabalhar com ele mais adiante. Para superar essas limitações, recorri a videoaulas no YouTube, já que eu não tinha nenhum conhecimento prévio de HTML e o assunto ainda não havia sido abordado no curso. Após assistir às aulas, personalizei o código, adaptando-o para que não ficasse idêntico ao que foi mostrado nos vídeos.
+
+Em seguida, criei uma nova branch para evitar problemas no código principal. Depois de finalizar as alterações, fiz o merge com a branch principal, "main". Com o código pronto, finalizei o "README" e a documentação, salvando e encerrando o projeto.
+
+O uso do Git foi fundamental, permitindo que eu evitasse erros no código principal e facilitando o gerenciamento das branches, que se mostraram extremamente úteis. Considero o Git uma ferramenta indispensável no dia a dia dos programadores, especialmente para organizar projetos mais complexos e de maior escala.
